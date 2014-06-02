@@ -1,7 +1,7 @@
 ﻿#pragma strict
 @script RequireComponent(AudioSource)
 
-var moveSpeed = 100;
+var moveSpeed = 110;
 var lifeTime : int = 2;
 
 var hitEffect : GameObject;
